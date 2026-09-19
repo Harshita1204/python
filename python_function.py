@@ -22,5 +22,5 @@ def calculate(a,b):
     sum= add(10,20)  
     diff= sub(10,5)
     prod= mul(10,20)
-    print(f"sum = {sum} difference = {diff} product = {prod} \n ")
+    print(f"sum = {sum} \ndifference = {diff}\n product = {prod} \n ")
 calculate(10,20)    
